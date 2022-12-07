@@ -1,0 +1,23 @@
+.bodyBackground 
+{
+    /* background-color: rgb(234, 238, 239); */
+    background-image:url("backg.jpg");
+    background-position:center;
+    background-size:cover;
+}
+
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(246, 249, 249);  */
+    /* background-image:url("backg.jpg"); */
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: rgb(210, 215, 235);
+	display: inline-block;
+}
+
